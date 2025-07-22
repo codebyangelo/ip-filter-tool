@@ -32,7 +32,7 @@ Setup and Usage
 
 bash
 
-git clone https://github.com/your-username/ip-filter-tool.git
+git clone https://github.com/codebyangelo/ip-filter-tool.git
 cd ip-filter-tool
 
 
