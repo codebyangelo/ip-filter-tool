@@ -79,7 +79,7 @@ Future Improvements
 
 Certification Context
 
-This project was developed as part of the Google Cybersecurity Certificate. It reflects hands-on understanding of basic scripting, secure automation practices, and file-level access control—demonstrating readiness for real-world infosec tasks.
+This project was developed as part of the Google Cybersecurity Certificate. It reflects hands-on understanding of basic scripting, secure automation practices, and file-level access control. Demonstrating readiness for real-world infosec tasks.
 
 
-Author: Angelo Ayton_
+Author: Angelo Ayton
